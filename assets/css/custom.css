@@ -1,0 +1,14 @@
+.date {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.15rem;
+  color: #444444;
+}
+
+.timeline{
+  overflow: scroll;
+  height: 600px;
+}
+
+.timeline-content{
+  margin-left: 10px;
+}
